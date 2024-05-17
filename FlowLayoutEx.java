@@ -13,7 +13,7 @@ public class FlowLayoutEx extends JFrame {
         contentPane.add(new JButton("mul"));
         contentPane.add(new JButton("div"));
         contentPane.add(new JButton("Calculate"));
-        setSize(300, 200); 
+        setSize(300, 200); // 프레임 크기
         setVisible(true); 
     }
     public static void main(String[] args) {
